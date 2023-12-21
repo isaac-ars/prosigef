@@ -1,0 +1,9 @@
+[server]
+port=8501
+runOnSave = true
+
+[theme]
+backgroundColor="#e0e0e0"
+primaryColor="#004474"
+secondaryBackgroundColor="#4a8dc5"
+textColor="#000000"
